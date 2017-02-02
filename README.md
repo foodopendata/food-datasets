@@ -4,7 +4,7 @@ To contribute new datasets or make modifications to the underlying spreadsheet, 
 
 ## License
 
-This material is licensed by its maintainers under the Public Domain Dedication
+This package is licensed by its maintainers under the Public Domain Dedication
 and License.
 
 If you intended to use these data in a public or commercial product, please

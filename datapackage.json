@@ -4,6 +4,7 @@
   "format": "csv",
   "datapackage_version": "1.0.0",
   "last_modified": "2017-02-01",
+  "license": "PDDL-1.0",
   "licenses": [
     {
       "type": "ODC-PDDL-1.0",
@@ -58,8 +59,13 @@
       }
     }
   ],
+  "contributors":[{
+    "name": "School of Data Switzerland",
+    "email": "info@schoolofdata.ch",
+    "web": "http://schoolofdata.ch"
+  }],
   "maintainers":[{
-    "name": "School of Data CH",
-    "web": "https://schoolofdata.ch/"
+    "name": "Oleg Lavrovsky",
+    "web": "https://github.com/loleg/"
   }]
 }
